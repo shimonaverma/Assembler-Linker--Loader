@@ -1,0 +1,10 @@
+extern a
+var b = 3
+var c = 4
+var s = 0
+s = b + 0
+s = s + c
+var d = 0
+if s > a
+	d = 1 + 0
+endif

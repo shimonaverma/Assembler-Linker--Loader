@@ -1,0 +1,6 @@
+var a[2] 
+var i = 2
+loop 2
+	a[i] = i
+	i = i - 1
+endloop

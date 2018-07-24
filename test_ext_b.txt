@@ -1,0 +1,11 @@
+extern a
+var b = 2
+var c = 7
+var mx = 0 
+mx = b + 0
+if a > b
+	mx = a + 0
+endif
+if c > mx
+	mx = c + 0
+endif
